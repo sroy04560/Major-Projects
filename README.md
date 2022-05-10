@@ -4,6 +4,7 @@
 - folders/files already setup
 - all imports included (warnings)
 - index.js for easier imports
+- this project is visible in (https://search-in-github-user.netlify.app)
 
 ## Styled Components
 
