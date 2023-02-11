@@ -114,3 +114,11 @@ package.json
 ```
 
 [create-react-app Warning Fix Blog Post](https://community.netlify.com/t/how-to-fix-build-failures-with-create-react-app-in-production/17752)
+### Output
+![Screens![Screenshot (35)](https://user-images.githubusercontent.com/41642444/218280810-c519ea73-0667-40c0-abc0-890d8677ee80.png)
+
+![Screenshot (36)](https://user-images.githubusercontent.com/41642444/218280752-ab5c69b8-249b-4868-90d0-01fd62e39c58.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/41642444/218280755-d2a4f9a3-69af-45c6-a484-5ebe8eccdc7b.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/41642444/218280759-4358ceb5-9bf4-4048-bfd5-18c51895c98a.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/41642444/218280764-2b79c6f1-c313-4c9f-96d3-ab33c05e8ea7.png)
+
